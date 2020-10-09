@@ -1,6 +1,6 @@
-# abstract_factory
+# Abstract Factory Pattern
 
-Example of an abstract factory
+Example of an abstract factory written with the Flutter framework
 
 ## Getting Started
 
